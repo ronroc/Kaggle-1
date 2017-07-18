@@ -50,3 +50,19 @@ python object_detection/export_inference_graph.py \
 --pipeline_config_path /home/703148706/models-master/models-master/object_detection/models/faster_rcnn_resnet101_pets.config \
 --checkpoint_path /home/703148706/models-master/models-master/object_detection/models/model.ckpt-131 \
 --inference_graph_path /home/703148706/models-master/models-master/object_detection/models/output_inference_graph.pb
+
+
+
+########################################################################################################################
+
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data
+#
+.kaggle.com	TRUE	/	FALSE	2130941180	intercom-id-koj6gxx6	5e9bdad3-fa69-4cc6-8990-734350426b06
+.kaggle.com	TRUE	/	FALSE	1563021711	__utma	158690720.1049080333.1496846770.1498808775.1499949680.8
+.kaggle.com	TRUE	/	FALSE	1515717711	__utmz	158690720.1496846770.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	HynbGHKtEdyDTiDnCVDDnORyhRw28i5FAge-AV_ndgX-2W8rgNAMbrAy5BukKc6KTSJLjatI8bJfy_j14nF3OlL8Chs1
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	2ad2004f97d0f65a6d67ea296a82ebedfe0a2a323ee4b7590d5c0355f02a74fb
+.kaggle.com	TRUE	/	FALSE	1500964102	intercom-session-koj6gxx6	K09hMjBlSkRGUzB0UE5tTnhwWTJLbXp6SzdISTZoNzFIbkJDeUNJVWtyUXJveGdlMVRyMkZWZGtKZkJ1TzlpQy0tZDV4UjJOQ1BkRWM2NmRrM2ZLci9mUT09--ca584c80dd2c1f2f215b26ced336bd37dd3a55fe
+www.kaggle.com	FALSE	/	TRUE	0	TempData	_U+3Psdez3IQCc9KmUag0D1CHThci6kZebPx3LcrGqVg3jEg+LoDY5h/Uad/LFFXuoopFLA0gF82zbyYtnU9Zs4xHNJ1cXI8Cx8QT1vmZAuVbWRv49PIKUHN473BpaNk7NJcVuHgBmqxPYJ40eb06ZVFcW+1bYiUSYJCBwdPGNl+dyVI5XGjKPitZjvLJKuMDukr2v/O95jrSepVsKD2FJmteC2o=
